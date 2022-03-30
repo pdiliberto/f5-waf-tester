@@ -1,5 +1,6 @@
 # f5-waf-tester
 F5 Networks Advanced WAF tester tool to ensure basic security level.
+(from f5devcentral)
 
 # Overview
 
@@ -47,7 +48,7 @@ Python package control (pip):\
 Ubuntu/Kali, ```sudo apt-get install -y python-pip```  
 Fedora, ```sudo dnf install -y python-pip``` 
 
-Install the tool. ```pip install git+https://github.com/f5devcentral/f5-waf-tester.git```  
+Install the tool. ```pip install git+https://github.com/pdiliberto/f5-waf-tester.git```  
 
 The host machine needs to have connection to the BIG-IP management network as well the traffic network
 
